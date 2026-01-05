@@ -1,0 +1,15 @@
+Package: app
+Architecture: amd64
+Version: 0.0.1
+Priority: optional
+Section: utils
+Maintainer: Anwesh Dahal anwesh@beamlab.co
+Filename: pool/main/app_0.0.1-1_amd64.deb
+Size: 2546
+MD5sum: 7b5b5ee7b1d5016bbe5ed90b94c1f9d8
+SHA1: f77ca2b199cd5ec6696aabf967cb216121008d92
+SHA256: 8fb60672ec6e6b35348db26e587a9e1578c03996ffd2f641d597d6436ce8895c
+SHA512: c62f3b75a3ed4693485cb2d908ea180061fc53952c069c2e7f6fb30585fa9a46b9fd189f54d060fc70c9d0bd89ef5a8406163993cbcff69f5749c78952e93c80
+Homepage: https://anweshdahal.github.io
+Description: Test deb package for distribution
+
